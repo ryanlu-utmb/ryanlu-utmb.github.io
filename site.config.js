@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Rookie Ryan's\nRats & Reflections",
+    name: "Rookie Ryan's Rats & Reflections",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Exploring Science\nModels, Methods, and Musings",
-    bio: "A rookie researcher juggling rats, R scripts, and random thoughts. From animal models to data plots, this is my place to record methods, mistakes, and musings. Both lab scribbles and life reflections belong here.",
+    role: "Exploring Science | Models, Methods, and Musings",
+    bio: "A rookie researcher juggling rats, R scripts, and random thoughts. From models to data plots, this is my place to record methods, mistakes, and musings. Both lab scribbles and life reflections belong here.",
     email: "",
     linkedin: "",
     github: "ryanlu-utmb",
