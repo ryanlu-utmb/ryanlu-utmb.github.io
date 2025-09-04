@@ -10,7 +10,14 @@ const CONFIG = {
     github: "ryanlu-utmb",
     instagram: "",
   },
-  projects: [],
+  
+  projects: [
+  {
+    name: "placeholder",
+    href: "#",
+  },
+],
+
   
   // blog setting (required)
   blog: {
