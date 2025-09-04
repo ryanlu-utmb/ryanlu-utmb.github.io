@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "ryan-blog",
+    name: "Rookie Ryan's Rats & Reflections",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "",
-    bio: "rookie of bioinformation",
+    role: "Exploring Science | Models, Methods, and Musings",
+    bio: "A rookie researcher juggling rats, R scripts, and random thoughts. From animal models to data plots, this is my place to record methods, mistakes, and musings. Both lab scribbles and life reflections belong here.",
     email: "",
     linkedin: "",
     github: "ryanlu-utmb",
@@ -21,8 +21,8 @@ const CONFIG = {
   
   // blog setting (required)
   blog: {
-    title: "ryan-blog",
-    description: "welcome to Ryan's blog!",
+    title: "Rookie Ryan's Rats & Reflections",
+    description: "Welcome to Ryan's Lab Scribbles!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
